@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Daily Tech Digest</title>
+    <link>https://example.com</link>
+    <description>Curated tech stories.</description>
+    <item>
+      <title>OpenAI ships new developer tools</title>
+      <link>https://example.com/openai-tools</link>
+      <pubDate>Wed, 22 May 2024 09:15:00 GMT</pubDate>
+      <description>Developers can now automate more workflows with richer APIs and better tooling.</description>
+    </item>
+    <item>
+      <title>Next.js 14.2 performance improvements</title>
+      <link>https://example.com/next-release</link>
+      <pubDate>Tue, 21 May 2024 18:30:00 GMT</pubDate>
+      <description>Framework updates deliver faster builds, streaming layouts, and simplified caching defaults.</description>
+    </item>
+    <item>
+      <title>Browser security roundup</title>
+      <link>https://example.com/browser-security</link>
+      <pubDate>Mon, 20 May 2024 14:05:00 GMT</pubDate>
+      <description>Vendors patch critical bugs while researchers highlight new best practices for protecting sessions.</description>
+    </item>
+    <item>
+      <title>Data visualisation trends to watch</title>
+      <link>https://example.com/data-viz</link>
+      <pubDate>Sun, 19 May 2024 11:00:00 GMT</pubDate>
+      <description>Designers adopt lightweight charts powered by Web Components and accessible colour palettes.</description>
+    </item>
+  </channel>
+</rss>
